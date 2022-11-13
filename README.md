@@ -10,12 +10,11 @@
 | ---------------- | ---------------------------------- |
 | CPU              | Intel I5 7300U (Kabylake)          |
 | iGPU             | Intel® Graphics HD 630             |
-| Lan              | Realtek 8168                       |
+| Lan              | Intel 1219                         |
 | Audio            | Realtek ALC225                     |
-| Ram              | 16 GB DDR4 3200 Mhz                |
-| Wifi + Bluetooth | BCM943602BAED (DW1830)             |
-| NVMe             | HYNIX BC511 512 GB (WINDOWS)       |
-| NVME             | SAMSUNG 970 EVO PLUS 500 GB (MACOS)|
+| Ram              | 16 GB DDR4 2400 Mhz                |
+| Wifi + Bluetooth | Intel (7265)                       |
+| SSD              | SAMSUNG 970                        |
 | SmBios           | MacBookPro 14,1                    |
 | BootLoader       | OpenCore                           |
 | macOS            | Ventura                            |
