@@ -33,9 +33,9 @@ DefinitionBlock ("", "SSDT", 2, "HACK", "HackLife", 0x00000000)
     External (ALSE, IntObj)
     External (HPTE, IntObj)
     External (SDM1, IntObj)
-    External (SSD0, IntObj)
-    External (SSH0, IntObj)
-    External (SSL0, IntObj)
+    External (SSD1, IntObj)
+    External (SSH1, IntObj)
+    External (SSL1, IntObj)
     External (XPRW, MethodObj)    // 2 Arguments
 
     Scope (\)
@@ -135,7 +135,7 @@ DefinitionBlock ("", "SSDT", 2, "HACK", "HackLife", 0x00000000)
                     {
                         Method (SSCN, 0, NotSerialized)
                         {
-                            Return (PKGX (SSH0, SSL0, SSD0))
+                            Return (PKGX (SSH1, SSL1, SSD1))
                         }
                     }
 
