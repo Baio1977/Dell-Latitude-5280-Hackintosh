@@ -4,6 +4,9 @@
 
 # latitude-5280-Hackintosh
 
+![Dell](./Screenshot/1.jpg)
+
+
 ### Computer Spec:
 
 | Component        | Brank                              |
