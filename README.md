@@ -11,7 +11,7 @@
 | CPU              | Intel I5 7300U (Kabylake)          |
 | iGPU             | Intel® Graphics HD 630             |
 | Lan              | Realtek 8168                       |
-| Audio            | Realtek ALC236                     |
+| Audio            | Realtek ALC225                     |
 | Ram              | 16 GB DDR4 3200 Mhz                |
 | Wifi + Bluetooth | BCM943602BAED (DW1830)             |
 | NVMe             | HYNIX BC511 512 GB (WINDOWS)       |
