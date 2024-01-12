@@ -18,6 +18,6 @@
 | Ram              | 16 GB DDR4 2400 Mhz                |
 | Wifi + Bluetooth | Intel (7265)                       |
 | SSD              | SAMSUNG 970                        |
-| SmBios           | MacBookPro 14,1                    |
+| SmBios           | MacBookAir8,1                      |
 | BootLoader       | OpenCore                           |
 | macOS            | Sonoma                             |
