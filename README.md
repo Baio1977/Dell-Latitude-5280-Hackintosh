@@ -11,7 +11,7 @@
 
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
-| CPU              | Intel I5 7300U (Kabylake)          |
+| CPU              | Intel i3,i5,i7-U (Kabylake)        |
 | iGPU             | Intel® Graphics HD 630             |
 | Lan              | Intel 1219                         |
 | Audio            | Realtek ALC225                     |
@@ -20,4 +20,4 @@
 | SSD              | SAMSUNG 970                        |
 | SmBios           | MacBookPro 14,1                    |
 | BootLoader       | OpenCore                           |
-| macOS            | Ventura                            |
+| macOS            | Sonoma                             |
